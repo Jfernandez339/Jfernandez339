@@ -1,7 +1,7 @@
 # Hola, soy Jorge Fernández 👋
 
-Desarrollador web y programador Java con base en **Pérez Zeledón, Costa Rica** 🇨🇷  
-Estudiante de Informática en la **UNED** · Freelancer en formación
+Desarrollador web y programador Java y Python, soy de **Costa Rica** 🇨🇷  
+Estudiante de Informática de la **UNED** · Freelancer en formación
 
 ---
 
